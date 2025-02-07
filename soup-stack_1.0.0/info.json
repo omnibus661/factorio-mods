@@ -1,0 +1,14 @@
+{
+    "name": "soup-stack",
+    "version": "1.0.0",
+    "title": "SoupOverdose Stack Modifiers",
+    "author": "soup",
+    "description": "Multiplies belt stack sizes",
+    "factorio_version": "2.0",
+    "dependencies": 
+	[
+		"base >= 2.0", 
+	"space-age >= 2.0",
+	"? ev-logistics >= 2.1.3"
+	]
+}

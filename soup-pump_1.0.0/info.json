@@ -1,0 +1,9 @@
+{
+    "name": "soup-pump",
+    "version": "1.0.0",
+    "title": "SoupOverdose Pump+",
+    "author": "soup",
+    "description": "Adds stronger pumps that can pump more fluid per second",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age >= 2.0"]
+}

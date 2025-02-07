@@ -1,0 +1,9 @@
+{
+    "name": "soup-space",
+    "version": "1.0.0",
+    "title": "SoupOverdose Space+",
+    "author": "soup",
+    "description": "Adds Space stuff",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age >= 2.0"]
+}
